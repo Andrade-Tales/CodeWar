@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CurrencyConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DioExercicioKotlinBasico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinPop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MvvmPattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reciclador" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/listaDeCompras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newCardapio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recyclerViewKotlin" vcs="Git" />
+  </component>
+</project>
